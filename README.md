@@ -4,39 +4,40 @@ A desktop-based Student Management System developed using Python, Tkinter, and M
 
 ## Features
 
+* Login authentication
 * Add student records
 * Update student details
 * Delete student records
 * Search student information
-* Export data to CSV
-* User login authentication
+* Export records to CSV
+* MySQL database integration
 
 ## Technologies Used
 
 * Python
 * Tkinter
 * MySQL
-* Pillow (PIL)
+* PyMySQL
+* Pandas
+* ttkthemes
+* Pillow
 
-## Project Files
+## Installation
 
-* login.py - Login page
-* main.py - Main application
-* bg.jpg - Background image
-* boy.png - UI image
-* students.png - UI image
+Install the required packages:
+
+pip install pymysql pandas ttkthemes pillow
 
 ## How to Run
 
-1. Install Python
+1. Make sure MySQL Server is running.
+2. Open the project folder.
+3. Run:
 
-2. Install required libraries:
-   pip install pillow pymysql pandas
+python login.py
 
-3. Configure MySQL database
-
-4. Run:
-   python login.py
+4. Enter your MySQL username and password.
+5. The application will automatically create the database and tables if they do not exist.
 
 ## Author
 
