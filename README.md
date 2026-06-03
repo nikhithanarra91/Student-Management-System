@@ -49,9 +49,9 @@ Nikhitha Narra
 
 ### Login Page
 
-[Login Page](login_page.png)
+![Login Page](login_page.png)
 
 ### Dashboard
 
-[Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
 
