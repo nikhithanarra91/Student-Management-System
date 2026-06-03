@@ -43,3 +43,15 @@ python login.py
 
 Nikhitha Narra
 
+
+
+## Application Screenshots
+
+### Login Page
+
+[Login Page](login_page.png)
+
+### Dashboard
+
+[Dashboard](dashboard.png)
+
